@@ -23,4 +23,4 @@ A similar approach is taken with activity names through the activities variable.
 
 all_data merges x_data, y_data and subject_data in a big dataset.
 
-Finally, Tydy contains the relevant averages which will be later stored in a .txt file.
+Tydy contains the relevant averages stored in a .txt file.
